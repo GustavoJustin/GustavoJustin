@@ -1,4 +1,4 @@
-# <Hello! I'm Gustavo Justin>
+# [Hello! I'm Gustavo Justin]
 ☞( '◡' )☜ I'm 16 years old and I study IT at the SENAI Salto technology school
 
 # 🖥️ Languages
