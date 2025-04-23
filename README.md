@@ -24,6 +24,7 @@
 
 
 #📱 Contact 
+
 [![image](https://img.shields.io/badge/gustavojustin77@gmail.com-Gmail-red?style=flat&logo=gmail&logoColor=red)](mailto:gustavojustin77@gmail.com)
 [![Student Email](https://img.shields.io/badge/gustavo.j.francisco@aluno.senai.br-Student-red?style=flat&logo=gmail&logoColor=red)](mailto:gustavo.j.francisco@aluno.senai.br)
 
