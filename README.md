@@ -5,9 +5,7 @@
 # 🖥️ Languages
 (☞'◡')☞ In the next 2 years I'll learn these programming languages on SENAI:
 
-<img src="https://github.com/GustavoJustin/GustavoJustin/blob/main/dinossauro%20azul.gif" alt="gif de um dinossauro azul" min-width="300px" max-width="300px" width="300px" align="right" autoplay>
-<p align="left">
-
+<img src="https://github.com/GustavoJustin/GustavoJustin/blob/main/dinossauro%20azul.gif" alt="gif de um dinossauro azul" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
     <img src="https://github.com/user-attachments/assets/532799cd-7ce9-425d-83e3-7f917707a3ec" />
